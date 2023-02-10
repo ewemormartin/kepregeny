@@ -1,0 +1,22 @@
+.kepregeny {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .kepregenycucc {
+    width: 20%;
+    text-align: center;
+    margin: 10px;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .kepcim {
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
